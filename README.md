@@ -3,3 +3,5 @@ This repository is for storing all of my practice and assignment code of Bohubri
 
 For Course Details: 
 [Click Here](https://bohubrihi.com/course-pages/data-structures-and-algorithms/)
+
+![image](https://user-images.githubusercontent.com/68526199/140526277-e9ea54ce-06ff-4727-88ac-b96a9d0219c3.jpg)
